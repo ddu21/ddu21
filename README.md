@@ -1,16 +1,12 @@
-## Hi there 👋
+Security enthusiast specializing in Privacy-Enhancing Technologies and personal information protection.
 
-<!--
-**ddu21/ddu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Python, C, HTML
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/ddu21?pet-id=826721839962107787" width="19%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/ddu21?pet-id=826722536166232230" width="19%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/ddu21?pet-id=826643488652113571" width="19%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/ddu21?pet-id=826643626875393594" width="19%" height="100"/>
+  </a>
+</div>
