@@ -1,6 +1,5 @@
 Security enthusiast specializing in Privacy-Enhancing Technologies and personal information protection.
 
->Python, C, HTML
 
 <div align="center">  
   <a href="https://github.com/devxb/gitanimals">
